@@ -4,7 +4,29 @@
 
 Prazer, sou Diego Alves de Souza, tenho 29 anos e resido em artur nogueira-SP. Sou um desenvolvedor Front-End apaixonado por tecnologia e design. Estou em constante aprendizado e busco minha primeira oportunidade profissional para colocar em prática os conhecimentos adquiridos, crescer como desenvolvedor e fazer parte de projetos que impactem positivamente a experiência do usuário.
 
-
+<p align="left">
+    <a href="https://wa.me/5519996213636">
+        <img 
+            alt="Contato WhatsApp" 
+            title="Entre em contato pelo whatsapp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="mailto:ediegoalves@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Me envie um E-mail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/diego-alves-b2610830a/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 ---
 
 ### 🤖 skills
